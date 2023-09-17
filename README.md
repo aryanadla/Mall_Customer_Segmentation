@@ -6,4 +6,4 @@ This project's main objective is to:
 2) Offer information: Produce information that the marketing team may utilise to customise plans for each consumer segment.
 3) Enhance Marketing Techniques: Assist the mall in streamlining its marketing techniques, including targeted advertising and promotions.
    
-mall_customers.csv: This dataset contains customer information, including CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100).
+Mall_Customers.csv :- This dataset contains customer information, including CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100).
